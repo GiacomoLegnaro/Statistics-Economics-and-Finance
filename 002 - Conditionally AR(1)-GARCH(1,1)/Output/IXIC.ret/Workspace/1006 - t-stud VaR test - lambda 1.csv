@@ -1,0 +1,2 @@
+"";"expected.exceed";"actual.exceed";"uc.H0";"uc.LRstat";"uc.critical";"uc.LRp";"uc.Decision";"ind.H0";"ind.LRstat";"ind.critical";"ind.LRp";"ind.Decision";"cc.H0";"cc.LRstat";"cc.critical";"cc.LRp";"cc.Decision"
+"1";66;120;"Correct Exceedances";34,7640083720978;6,63489660102121;3,72190944730733e-09;1;"Independent";7,19302738213969;6,63489660102121;0,00731874002993882;1;"Correct Exceedances & Independent";41,9570357542375;9,21034037197618;7,74721176100002e-10;1
